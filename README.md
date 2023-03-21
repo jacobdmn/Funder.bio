@@ -1,37 +1,111 @@
-## Getting Started
+# Funder.bio: Web3 Crowdfunding platform
 
-Create a project using this example:
+<!-- https://thirdweb.com/goerli/0xDEff216166bF562E6Fea34c5D7fF343E59eAc74e 배포됨 -->
+<!-- https://goerlifaucet.com/ -->
 
-```bash
-npx thirdweb create --template vite-javascript-starter
-```
+<div align='center'>
 
-You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
+<a href='https://funder.bio/' target="_blank">
+<img width='50%' src="./src/assets/crowdFunding.png">
+</a>
 
-On `src/index.jsx`, you'll find our `ThirdwebProvider` wrapping your app,
-this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+<br>
 
-### Deploy to IPFS
+### ▲ **Click on the image to go to the `thirdweb Crowdfunding` site** ▲
 
-Deploy a copy of your application to IPFS using the following command:
+</div>
 
-```bash
-yarn deploy
-```
+<br>
 
-## Learn More
+<div align='center'>
 
-To learn more about thirdweb, Vite and React, take a look at the following resources:
+### This is a `Crowdfunding` site for various campaigns using `thirdweb` based on `React` and `Vite`.
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
-- [React documentation](https://reactjs.org/) - learn React.
+</div>
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+<br><br>
 
-## Join our Discord!
+# 1. Tech
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+- Front-End <br>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=424242">&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+
+- Back-End <br>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;
+  <img width='145px' src="./src/assets/thirdwebname.png">
+
+- Deploy <br>
+
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">&nbsp;
+  <img width='145px' src="./src/assets/thirdwebname.png">
+
+- Edit Tool <br>
+
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+
+- Used Cryptocurrency | Wallet <br>
+
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">&nbsp;
+  <img width='145px' src="./src/assets/metamaskLogo.png">
+
+<br><br>
+
+# 2. Project details
+
+<div align='center'>
+
+| Main (Not connected)                                |
+| --------------------------------------------------- |
+| <img src="./src/assets/gif/pcMainNotConnected.gif"> |
+
+<br>
+
+| Connect Account                            |
+| ------------------------------------------ |
+| <img src="./src/assets/gif/pcConnect.gif"> |
+
+<br>
+
+| Create Campaign                                   |
+| ------------------------------------------------- |
+| <img src="./src/assets/gif/pcCreateCampaign.gif"> |
+
+<br>
+
+| My Campaign / Campaign Detail                       |
+| --------------------------------------------------- |
+| <img src="./src/assets/gif/pcMyCampaignDetail.gif"> |
+
+<br>
+
+| Donate                                    |
+| ----------------------------------------- |
+| <img src="./src/assets/gif/pcDonate.gif"> |
+
+<br>
+
+| Main (Tablet)                            |
+| ---------------------------------------- |
+| <img src="./src/assets/gif/tabMain.gif"> |
+
+<br>
+
+| Create Campaign (Tablet)                           |
+| -------------------------------------------------- |
+| <img src="./src/assets/gif/tabCreateCampaign.gif"> |
+
+<br>
+
+| Main (Mobile) / Create Campaign (Mobile)                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| <img src="./src/assets/gif/mobileMain.gif">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./src/assets/gif/mobileCreateCampaign.gif"> |
+
+</div>
